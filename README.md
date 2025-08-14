@@ -13,8 +13,7 @@ This repository contains a custom Minecraft modpack profile that you can easily 
 ---
 
 ## 📦 Step 2 — Download the Modpack Profile
-1. Download the profile from: https://drive.google.com/file/d/1oGx3YrG98Hq5PdkAs0eeW-nzPGQed1lm/view?usp=drive_link
-2. Click the file name to download it to your computer.  
+1. Download the profile from: https://drive.google.com/file/d/1oGx3YrG98Hq5PdkAs0eeW-nzPGQed1lm/view?usp=drive_link  
    > **Note:** Do **not** unzip the file — the CurseForge Client imports `.zip` profiles directly.
 
 ---
