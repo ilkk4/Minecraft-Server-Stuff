@@ -32,6 +32,7 @@ This repository contains a custom Minecraft modpack profile that you can easily 
 1. Once installed, find your modpack in the **My Modpacks** section of the CurseForge Client.
 2. Click **Play** — the Minecraft Launcher will open.
 3. Log in (if needed) and start the game.
+4. In the multiplayer menu, the Grief server should be listed automatically.
 
 ---
 
