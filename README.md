@@ -28,12 +28,16 @@ This repository contains a custom Minecraft modpack profile that you can easily 
 
 ---
 
-## 🚀 Step 3b — Custom mods
-1. Open the CurseForge Client.
-2. Select the Modpack you just installed.
-3. Click the three vertical dots next to the **Play** button at the top and select **Open Folder**.
-4. Navigate to the mods folder (Create Long Con\mods)
-5. Delete create-1.21.1-6.0.6.jar
+## 🛠️ Step 3b — Installing a Custom Version of Create
+1. Open the **CurseForge Client**.
+2. Select the **modpack** you just installed.
+3. Click the **three vertical dots** next to the **Play** button and choose **Open Folder**.
+4. Navigate to the `mods` folder (e.g., `Create Long Con\mods`).
+5. **Delete** the existing `create-1.21.1-6.0.6.jar` file.
+6. In this repository, **right-click** the `create-1.21.1-6.0.7.jar` file and choose **"Save link as..."**.
+7. Save the file into the same `mods` folder you just opened.
+
+> ✅ You’ve now replaced the default Create mod with a custom version!
 
 ---
 
