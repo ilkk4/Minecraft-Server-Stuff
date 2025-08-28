@@ -35,6 +35,7 @@ This repository contains a custom Minecraft modpack profile that you can easily 
 4. Navigate to the `mods` folder (e.g., `Create Long Con\mods`).
 5. **Delete** the existing `create-1.21.1-6.0.6.jar` file.
 6. In this repository, **right-click** the `create-1.21.1-6.0.7.jar` file and choose **"Save link as..."**.
+https://github.com/ilkk4/Minecraft-Server-Stuff/blob/main/create-1.21.1-6.0.7.jar
 7. Save the file into the same `mods` folder you just opened.
 
 > ✅ You’ve now replaced the default Create mod with a custom version!
